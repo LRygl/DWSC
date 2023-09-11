@@ -1,8 +1,1 @@
-DateTime,Date,Time,Category,League,TeamA,TeamB
-2023-09-11 15:16:45.750152,11-09-2023,15-16-45,Fotbal,Česko 1.liga,Bohemians 1905,Baník Ostrava
-2023-09-11 15:16:45.750152,11-09-2023,15-16-45,Fotbal,Česko 1.liga,Karviná,Teplice
-2023-09-11 15:16:45.750152,11-09-2023,15-16-45,Fotbal,Česko 1.liga,Mladá Boleslav,Hradec Králové
-2023-09-11 15:16:45.750152,11-09-2023,15-16-45,Fotbal,Česko 1.liga,Sigma Olomouc,České Budějovice
-2023-09-11 15:16:45.750152,11-09-2023,15-16-45,Fotbal,Česko 1.liga,Pardubice,Slavia Praha
-2023-09-11 15:16:45.750152,11-09-2023,15-16-45,Fotbal,Česko 1.liga,Jablonec,Liberec
-2023-09-11 15:16:45.750152,11-09-2023,15-16-45,Fotbal,Česko 1.liga,Zlín,Plzeň
+DateTime,Date,Time,Category,League,TeamA,TeamB,1,X,2,AboveBelow,AboveVal,BelowVal
